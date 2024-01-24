@@ -26,7 +26,7 @@ Este projeto, "Tela de Login e Cadastro", foi desenvolvido como prática durante
 
 ## Links
 
-- [Projeto no GitHub](https://maiconsbotelho.github.io/TelaLogin-Cadastro/)
+- [Projeto no GitHub](https://maiconsbotelho.github.io/TelaLoginCadastro/)
 
 ## Contribuição
 
