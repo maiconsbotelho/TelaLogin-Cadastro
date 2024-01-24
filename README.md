@@ -10,10 +10,11 @@ Este projeto, "Tela de Login e Cadastro", foi desenvolvido como prática durante
 
 ## Capturas de Tela
 
-![Login Page](screenshots/login.png)
+![Login Page](https://raw.githubusercontent.com/maiconsbotelho/TelaLogin-Cadastro/main/img/screenshort-login.png
+)
 *Captura de tela da página de login.*
 
-![Cadastro Page](screenshots/cadastro.png)
+![Cadastro Page](https://raw.githubusercontent.com/maiconsbotelho/TelaLogin-Cadastro/main/img/screenshort-cadastro.png)
 *Captura de tela da página de cadastro.*
 
 ## Tecnologias Utilizadas
@@ -25,8 +26,7 @@ Este projeto, "Tela de Login e Cadastro", foi desenvolvido como prática durante
 
 ## Links
 
-- [Projeto no GitHub](https://github.com/seu-usuario/seu-repositorio)
-- [Demonstração ao Vivo](https://sua-demo-live.com)
+- [Projeto no GitHub](https://maiconsbotelho.github.io/TelaLogin-Cadastro/)
 
 ## Contribuição
 
